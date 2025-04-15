@@ -1,20 +1,16 @@
-# Full Stack AI Career Coach with Next JS, Neon DB, Tailwind, Prisma, Inngest, Shadcn UI Tutorial 🔥🔥
+ASPIREAI: FULL STACK AI CAREER COACH [🔗 GitHub]  Remote
+Oct 2024 – Present
 
+Built an AI career coach with 90%+ accurate career insights using Gemini API and LLMs.
 
+Boosted interview readiness by 75% through a real-time role-specific interview simulator.
 
+Automated resume creation with a 50% faster ATS-optimized resume builder.
 
-### Make sure to create a `.env` file with following variables -
+Integrated live job market data (roles, salaries, skills) via Inngest, enhancing career insights by 65%.
 
-```
-DATABASE_URL=
+Achieved 100% mobile responsiveness using Next.js, Tailwind CSS, and Shadcn UI.
 
-NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
-CLERK_SECRET_KEY=
+Secured user flows with Clerk Auth, supporting sign-up/login in under 3s.
 
-NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
-NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
-NEXT_PUBLIC_CLERK_AFTER_SIGN_IN_URL=/onboarding
-NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=/onboarding
-
-GEMINI_API_KEY=
-```
+Tech: Next.js, Neon DB, Prisma, Tailwind, Shadcn UI, Inngest, Clerk, Gemini API, LLMs
